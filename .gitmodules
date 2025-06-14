@@ -1,12 +1,12 @@
 [submodule "dev-files-api"]
 	path = dev-files-api
-	url = git@github.com:bccalegari/dev-files-api.git
+	url = https://github.com/bccalegari/dev-files-api.git
 [submodule "dev-files-iac"]
 	path = dev-files-iac
-	url = git@github.com:bccalegari/dev-files-iac.git
+	url = https://github.com/bccalegari/dev-files-iac.git
 [submodule "dev-files-ai-service"]
 	path = dev-files-ai-service
-	url = git@github.com:bccalegari/dev-files-ai-service.git
+	url = https://github.com/bccalegari/dev-files-ai-service.git
 [submodule "dev-files-notification-service"]
 	path = dev-files-notification-service
-	url = git@github.com:bccalegari/dev-files-notification-service.git
+	url = https://github.com/bccalegari/dev-files-notification-service.git
