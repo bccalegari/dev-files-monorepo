@@ -207,11 +207,9 @@ networks:
   devfiles-network:
     name: devfiles-network
     driver: bridge
-    external: true
   rabbitmq-cluster:
     name: rabbitmq-cluster
     driver: bridge
-    external: true
 
 volumes:
   devfiles-postgres-data:
